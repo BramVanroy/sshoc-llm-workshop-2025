@@ -1,0 +1,21 @@
+[project]
+name = "sshoc-llm-workshop-2025"
+version = "0.1.0"
+description = "Scripts and notebooks for the workshop on LLMs within SSHOC, organized by Task 3.1. Code by Bram Vanroy"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.11.0",
+    "conllu>=6.0.0",
+    "datasets==4.3.0",
+    "ftfy>=6.3.1",
+    "hf-transfer>=0.1.9",
+    "hf-xet>=1.2.0",
+    "jupyter==1.1.1",
+    "kernels==0.11.1",
+    "seqeval==1.2.2",
+    "spacy==3.8.7",
+    "transformers==4.57.1",
+    "triton==3.4",
+    "vllm==0.11.0",
+]
