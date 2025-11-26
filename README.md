@@ -8,11 +8,11 @@ More information in the notebooks.
 
 **Note**: unfortunately [Github is not great](https://github.com/orgs/community/discussions/155944) at displaying output of certain widgets (like `tqdm`) so chances are that the first notebook cannot be displayed in preview mode on the Github platform. It still just works though! So instead, try Google Colab.
 
-1. Make sure you are signed into a Google account (so we can use Google Colab)
-2. Open the notebooks. When you click on the link it will look like a bunch of strange characters. But at the top center there should be an option to "Open in Google Colab". Click that.
-  - #1 https://drive.google.com/file/d/1kQYZHsYJnvbB55zyLcxoi05YdTF6IXXg/view?usp=sharing
-  - #2 https://drive.google.com/file/d/1bh83ouElIZZEU6stPfPb2acPIdsKTrJr/view?usp=sharing
-3. Save the notebook to your own drive before running: "File > Save a copy in Drive"
+1. Make sure you are signed into a Google account (so you can use Google Colab free tier and save your version of the notebook)
+2. Open the notebooks. 
+  - #1 https://colab.research.google.com/drive/1pqI5GU6UVQhUr9HOKehUrJCY8OBc6GV3
+  - #2 https://colab.research.google.com/drive/17C1LTiw4OoQF0xdZMX2C_V1Xc1m2okdt
+3. ⚠️ Save the notebook to your own drive before running: "File > Save a copy in Drive"
 
 ---
 
