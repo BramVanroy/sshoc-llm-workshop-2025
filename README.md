@@ -6,7 +6,7 @@ The emphasis here lies on the methodology. We are not at all trying to create "t
 
 More information in the notebooks.
 
-**Note**: unfortunately Github is not great at displaying output of certain widgets (like `tqdm`) so chances are that the first notebook cannot be displayed in preview mode on the Github platform. It still just works though! So instead, try Google Colab.
+**Note**: unfortunately [Github is not great](https://github.com/orgs/community/discussions/155944) at displaying output of certain widgets (like `tqdm`) so chances are that the first notebook cannot be displayed in preview mode on the Github platform. It still just works though! So instead, try Google Colab.
 
 1. Make sure you are signed into a Google account (so we can use Google Colab)
 2. Open the notebooks. When you click on the link it will look like a bunch of strange characters. But at the top center there should be an option to "Open in Google Colab". Click that.
