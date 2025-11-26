@@ -14,6 +14,8 @@ More information in the notebooks.
   - #2 https://colab.research.google.com/drive/17C1LTiw4OoQF0xdZMX2C_V1Xc1m2okdt
 3. ⚠️ Save the notebook to your own drive before running: "File > Save a copy in Drive"
 
+⚠️ Despite best efforts of making results reproducible, they seem to differ wildly between environments. Running the notebook locally for me repeatedly leads to the same results, but running the exact same code on Colab still leads to large differences that propagate and that **may impact the analyses**! So the descriptive cells that discuss the results may not hold true. That is not a problem, however, since the goal of the notebook was educational in nature. So perhaps the best approach to this notebook is to first read it with its current output cells in tact, so you should follow along with "the story" exactly as written. And as soon as you start running your own experiments, you can put the story aside and begin your own adventure.
+
 ---
 
 I created these notebooks from-scratch in the context of the [SSHOC-NL project](https://sshoc.nl/), specifically [Task 3.1](https://enrichment.ivdnt.org/) on methodologically sound data enrichment and evaluation.
